@@ -1,4 +1,14 @@
 <resources>
     <string name="app_name">Planets</string>
     <string name="title_activity_splash">Planets</string>
+
+    <string name="planet_Mercury_Name">Mercury</string>
+    <string name="planet_Venus_Name">Venus</string>
+    <string name="planet_Earth_Name">Earth</string>
+    <string name="planet_Mars_Name">Mars</string>
+    <string name="planet_Jupiter_Name">Jupiter</string>
+    <string name="planet_Saturn_Name">Saturn</string>
+    <string name="planet_Uranus_Name">Uranus</string>
+    <string name="planet_Neptun_Name">Neptun</string>
+
 </resources>
